@@ -26,13 +26,13 @@
 
 # Rough Plan
 
-1. Tokyo (shinjiku, shibuya, nara park, temples, sky tower, shopping, govt. building, studio Ghibli museum, sakura viewing, parks and temples around Tokyo, robot cafe, Enoshima cat island) (3 - 4 days including day trip)
+1. Tokyo (shinjiku, shibuya, temples, sky tower, shopping, govt. building, studio Ghibli museum, sakura viewing, parks and temples around Tokyo, robot cafe, Enoshima cat island) (3 - 4 days including day trip)
 
 2. Trips around Tokyo - Nikko overnight, Hakkone (day trip)
 
 3. Kyoto - Arashiyama, Miyako Odori festival(3 days)
 
-4. Osaka - Nara/Uji (tea garden) day trip,miyazaki (beef) (3 days)
+4. Osaka - Nara/Uji (tea garden) day trip, miyazaki (beef) (3 days)
 
 5. Himeji castle, Hiroshima, Miyajima island ( 2 days /night at island)
 
