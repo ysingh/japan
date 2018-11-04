@@ -30,9 +30,9 @@
 
 2. Trips around Tokyo - Nikko overnight, Hakkone (day trip)
 
-3. Kyoto - Arashiyama, Miyako Odori festival(3 days)
+3. Kyoto - Arashiyama, Miyako Odori festival Nara/Uji (tea garden) day trip, miyazaki (beef)(3 days)
 
-4. Osaka - Nara/Uji (tea garden) day trip, miyazaki (beef) (3 days)
+4. Osaka - [Nara/Uji (tea garden) day trip, miyazaki (beef)] may be closer to Kyoto (3 days)
 
 5. Himeji castle, Hiroshima, Miyajima island ( 2 days /night at island)
 
