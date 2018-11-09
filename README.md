@@ -47,23 +47,23 @@ Depart Tokyo
 Date Day Night
 03/29 Tokyo Tokyo
 -----------------
-03/30 Tokyo Tokyo
-04/01 Tokyo Tokyo
-04/02 Tokyo Tokyo/Nikko
-04/03 Tokyo Tokyo/Nikko/Kamakura
-04/04 Hakone Hakone
-04/05 Kyoto Fuji 5 Lakes/Kyoto
-04/06 Kyoto Kyoto
-04/07 Kyoto Kyoto
-04/08 Kyoto Kyoto/Mount koya/miyazaki
-04/09 Osaka Kyoto/Osaka
-04/10 Osaka Uji/Nara
-04/11 Miyajima Himeji Castle
-04/12 Hiroshima Kanazawa
-04/13 Kanazawa Kanazawa
-04/14 Takayama Takayama
-04/15 Shirikawa Go
-04/16 Tokyo
+- 03/30 Tokyo Tokyo
+- 04/01 Tokyo Tokyo
+- 04/02 Tokyo Tokyo/Nikko
+- 04/03 Tokyo Tokyo/Nikko/Kamakura
+- 04/04 Hakone Hakone
+- 04/05 Kyoto Fuji 5 Lakes/Kyoto
+- 04/06 Kyoto Kyoto
+- 04/07 Kyoto Kyoto
+- 04/08 Kyoto Kyoto/Mount koya/miyazaki
+- 04/09 Osaka Kyoto/Osaka
+- 04/10 Osaka Uji/Nara
+- 04/11 Miyajima Himeji Castle
+- 04/12 Hiroshima Kanazawa
+- 04/13 Kanazawa Kanazawa
+- 04/14 Takayama Takayama
+- 04/15 Shirikawa Go
+- 04/16 Tokyo
 ------------
 04/17 Leave
 
