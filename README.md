@@ -16,12 +16,12 @@
 |04/07  |SUN    |Kyoto           |Kyoto         |                                 |
 |04/08  |MON    |Kyoto           |Kyoto         |                                 |
 |04/09  |TUE    |Miyajima        |Himeji        |                                 |
-|04/10  |WED    |Kanazawa        |              |                                 |
-|04/11  |THU    |Shirikawa-go    |              |                                 |
-|04/12  |FRI    |xx              |              |                                 |
+|04/10  |WED    |Kanazawa        |Hiroshima     |                                 |
+|04/11  |THU    |Kanazawa        |Kanazawa      |                                 |
+|04/12  |FRI    |Shirakawa-go    |Shirakawa-go  |                                 |
 |04/13  |SAT    |xx              |              |                                 |
-|04/14  |SUN    |xx              |              |                                 |
-|04/15  |MON    |Takayama        |              |                                 |
+|04/14  |SUN    |Takayama        |Takayama      |                                 |
+|04/15  |MON    |                |              |                                 |
 |04/16  |TUE    |Tokyo           |Takayama/Tokyo|                                 |
 |04/17  |WED    |Tokyo           |Tokyo         |Leave for airport in the morning |
 
