@@ -1,4 +1,4 @@
-<iframe src="https://www.google.com/maps/d/embed?mid=1GqcsMsJTb3JPUCn7sbIqKMuthIuCuJ0s" width="640" height="480"></iframe>
+![](https://www.google.com/maps/d/embed?mid=1GqcsMsJTb3JPUCn7sbIqKMuthIuCuJ0s)
 
 # Itinerary
 
