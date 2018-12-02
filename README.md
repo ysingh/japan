@@ -1,28 +1,31 @@
+<iframe src="https://www.google.com/maps/d/embed?mid=1GqcsMsJTb3JPUCn7sbIqKMuthIuCuJ0s" width="640" height="480"></iframe>
 
 # Itinerary
 
-|  Date | Day   |Night In City   |Day|Plan  |
-|-------|-------|----------------|---|------------------|
-|03/29  |FRI    |Tokyo           |Tokyo|Arrive 18:30 - chill  |
-|03/30  |SAT    |Tokyo           |Tokyo|                               |
-|03/31  |SUN    |Tokyo           |Tokyo||
-|04/01  |MON    |Tokyo           |Tokyoo||
-|04/02  |TUE    |Tokyo           |Tokyo/Kamakura|
-|04/03  |WED    |Tokyo         |Nikko||
-|04/04  |THU    |Hakone        |Hakone||
-|04/05  |FRI    |Kyoto           |Fuji 5 Lakes||
-|04/06  |SAT    |Kyoto           |Kyoto||
-|04/07  |SUN    |Kyoto           |Kyoto||
-|04/08  |MON    |Kyoto    |Kyoto||
-|04/09  |TUE    |Miyajima Kanazawa        |||
-|04/10  |WED    |Kanazawa        |||
-|04/11  |THU    |Shirikawa-go    |||
-|04/12  |FRI    |xx              |||
-|04/13  |SAT    |xx              |||
-|04/14  |SUN    |xx              |||
-|04/15  |MON    |Takayama        |||
-|04/16  |TUE    |Tokyo           |Takayama/Tokyo||
-|04/17  |WED    |Tokyo           |Tokyo|Leave for airport in the morning|
+|  Date | Day   |Night In City   |Day           |Plan                             |
+|-------|-------|----------------|--------------|---------------------------------|
+|03/29  |FRI    |Tokyo           |Tokyo         |Arrive 18:30 - chill             |
+|03/30  |SAT    |Tokyo           |Tokyo         |                                 |
+|03/31  |SUN    |Tokyo           |Tokyo         |                                 |   
+|04/01  |MON    |Tokyo           |Tokyo         |                                 |
+|04/02  |TUE    |Tokyo           |Tokyo/Kamakura|                                 |
+|04/03  |WED    |Tokyo           |Nikko         |                                 |
+|04/04  |THU    |Hakone          |Hakone        |                                 |
+|04/05  |FRI    |Kyoto           |Fuji 5 Lakes  |                                 |
+|04/06  |SAT    |Kyoto           |Kyoto         |                                 |
+|04/07  |SUN    |Kyoto           |Kyoto         |                                 |
+|04/08  |MON    |Kyoto           |Kyoto         |                                 |
+|04/09  |TUE    |Miyajima        |Himeji        |                                 |
+|04/10  |WED    |Kanazawa        |              |                                 |
+|04/11  |THU    |Shirikawa-go    |              |                                 |
+|04/12  |FRI    |xx              |              |                                 |
+|04/13  |SAT    |xx              |              |                                 |
+|04/14  |SUN    |xx              |              |                                 |
+|04/15  |MON    |Takayama        |              |                                 |
+|04/16  |TUE    |Tokyo           |Takayama/Tokyo|                                 |
+|04/17  |WED    |Tokyo           |Tokyo         |Leave for airport in the morning |
+
+
 # Rough Plan
 
 1. Tokyo (shinjiku, shibuya, temples, sky tower, shopping, govt. building, studio Ghibli museum, sakura viewing, parks and temples around Tokyo, robot cafe, Enoshima cat island) (3 - 4 days including day trip)
