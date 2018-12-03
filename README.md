@@ -1,4 +1,4 @@
-![](https://www.google.com/maps/d/embed?mid=1GqcsMsJTb3JPUCn7sbIqKMuthIuCuJ0s)
+[MAP](https://www.google.com/maps/d/embed?mid=1GqcsMsJTb3JPUCn7sbIqKMuthIuCuJ0s)
 
 # Itinerary
 
@@ -8,21 +8,21 @@
 |03/30  |SAT    |Tokyo           |Tokyo         |                                 |
 |03/31  |SUN    |Tokyo           |Tokyo         |                                 |   
 |04/01  |MON    |Tokyo           |Tokyo         |                                 |
-|04/02  |TUE    |Tokyo           |Tokyo/Kamakura|                                 |
+|04/02  |TUE    |Tokyo           |Kamakura      |or Tokyo                         |
 |04/03  |WED    |Tokyo           |Nikko         |                                 |
-|04/04  |THU    |Hakone          |Hakone        |                                 |
+|04/04  |THU    |Hakkone         |Hakkone       |                                 |
 |04/05  |FRI    |Kyoto           |Fuji 5 Lakes  |                                 |
 |04/06  |SAT    |Kyoto           |Kyoto         |                                 |
 |04/07  |SUN    |Kyoto           |Kyoto         |                                 |
-|04/08  |MON    |Kyoto           |Kyoto         |                                 |
-|04/09  |TUE    |Miyajima        |Himeji        |                                 |
-|04/10  |WED    |Kanazawa        |Hiroshima     |                                 |
-|04/11  |THU    |Kanazawa        |Kanazawa      |                                 |
-|04/12  |FRI    |Shirakawa-go    |Shirakawa-go  |                                 |
-|04/13  |SAT    |xx              |              |                                 |
+|04/08  |MON    |Kyoto           |Kyoto         |Osaka?                           |
+|04/09  |TUE    |Kyoto           |Uji/Nara      |                                 |
+|04/10  |WED    |Miyajima        |Himeji        |                                 |
+|04/11  |THU    |Kanazawa        |Hiroshima     |                                 |
+|04/12  |FRI    |Kanazawa        |Kanazawa      |                                 |
+|04/13  |SAT    |Shirakawa-go    |Kanazawa/shira|                                 |
 |04/14  |SUN    |Takayama        |Takayama      |                                 |
-|04/15  |MON    |                |              |                                 |
-|04/16  |TUE    |Tokyo           |Takayama/Tokyo|                                 |
+|04/15  |MON    |Tokyo           |Takayama/alpin|if alpine route might need to sleep somewhere else|
+|04/16  |TUE    |Tokyo           |Tokyo         |                                 |
 |04/17  |WED    |Tokyo           |Tokyo         |Leave for airport in the morning |
 
 
