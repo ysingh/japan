@@ -11,7 +11,7 @@
 |04/02  |TUE    |Kamakura/Tokyo       |Tokyo           |                                                    |
 |04/03  |WED    |Nikko                |Tokyo           |                                                    |
 |04/04  |THU    |Fuji 5 Lakes         |Fuji 5 Lakes    |                                                    |
-|04/05  |FRI    |Hakone               |Halkone         |                                                    |
+|04/05  |FRI    |Hakone               |Hakone         |                                                    |
 |04/06  |SAT    |Kyoto                |Kyoto           |                                                    |
 |04/07  |SUN    |Kyoto                |Kyoto           |                                                    |
 |04/08  |MON    |Kyoto                |Kyoto           |                                                    |
