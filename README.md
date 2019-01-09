@@ -24,34 +24,3 @@
 |04/15  |MON    |Takayama/alpin       |Tokyo           |if alpine route might need to sleep somewhere else  |
 |04/16  |TUE    |Tokyo                |Tokyo           |                                                    |
 |04/17  |WED    |                     |✈️              |Leave for airport in the morning                    |
-
-# Rough Plan
-
-1. Tokyo (shinjiku, shibuya, temples, sky tower, shopping, govt. building, studio Ghibli museum, sakura viewing, parks and temples around Tokyo, robot cafe, Enoshima cat island) (3 - 4 days including day trip)
-
-2. Trips around Tokyo - Nikko overnight, Hakkone, Kamakura (day trip), 
-
-3. Kyoto - Arashiyama, Miyako Odori festival Nara/Uji (tea garden) day trip, miyazaki ( (beef), mount koya (temple lodging overnight - https://www.japan-guide.com/e/e4905.html)(3 days)
-
-4. Osaka - [Nara/Uji (tea garden) day trip, miyazaki (beef)] may be closer to Kyoto (3 days)
-
-5. Himeji castle, Hiroshima, Miyajima island ( 2 days /night at island)
-
-6. Kanawaza (1 night)
-
-7. Shirikawa-go (1 night)
-
-8. Takayama - Takayama Spring Festival (Apr 15) (1 night)
-
-Depart Tokyo
-
-Kyoto - Katsura Imperial Villa (https://www.japan-guide.com/e/e3914.html)
-Kyoto - Kokedera (Moss Temple)
-Kyoto - Ryoanji Temple
-Kyoto - Amanohashidate
-Kyoto - Fushimi Inari Shrine
-Okayama - (Between Himeji and Miyajima) Korakuen Garden
-Miyajima - Itsukushima Shrine
-Nikko - Toshogu Shrine
-
-Matsumoto (between takayama and tokyo)- Matsumoto Castle
