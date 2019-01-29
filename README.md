@@ -10,8 +10,8 @@
 |04/01  |MON    |Tokyo                |Tokyo           |                                                    |Booked        | 
 |04/02  |TUE    |Kamakura/Tokyo       |Tokyo           |                                                    |Booked        | 
 |04/03  |WED    |Nikko                |Tokyo           |                                                    |Booked        | 
-|04/04  |THU    |Fuji 5 Lakes         |Fuji 5 Lakes    |                                                    |
-|04/05  |FRI    |Hakone               |Hakone          |                                                    |
+|04/04  |THU    |Hakone               |Hakone          |                                                    |
+|04/05  |FRI    |Fuji Five Lakes      |Fuji Five Lakes |                                                    |Booked        |
 |04/06  |SAT    |Osaka                |Osaka           |                                                    |
 |04/07  |SUN    |Uji/Nara             |Osaka           |                                                    |
 |04/08  |MON    |Kyoto                |Kyoto           |                                                    |
