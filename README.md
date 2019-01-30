@@ -12,13 +12,13 @@
 |04/03  |WED    |Nikko                |Tokyo           |                                                    |Booked        | 
 |04/04  |THU    |Hakone               |Hakone          |                                                    |
 |04/05  |FRI    |Fuji Five Lakes      |Fuji Five Lakes |                                                    |Booked        |
-|04/06  |SAT    |Osaka                |Osaka           |                                                    |
-|04/07  |SUN    |Uji/Nara             |Osaka           |                                                    |
-|04/08  |MON    |Kyoto                |Kyoto           |                                                    |
-|04/09  |TUE    |Kyoto                |Kyoto           |                                                    |
+|04/06  |SAT    |Osaka                |Osaka           |                                                    |Booked        |
+|04/07  |SUN    |Uji/Nara             |Osaka           |                                                    |Booked        |
+|04/08  |MON    |Kyoto                |Kyoto           |                                                    |Booked        |
+|04/09  |TUE    |Kyoto                |Kyoto           |                                                    |Booked        |
 |04/10  |WED    |Himeji               |Miyajima        |                                                    |
-|04/11  |THU    |Hiroshima            |Kanazawa        |                                                    |
-|04/12  |FRI    |Kanazawa             |Kanazawa        |                                                    |
+|04/11  |THU    |Hiroshima            |Kanazawa        |                                                    |Booked        |
+|04/12  |FRI    |Kanazawa             |Kanazawa        |                                                    |Booked        |
 |04/13  |SAT    |Shirakawa-go         |Shirakawa-go    |                                                    |Booked        | 
 |04/14  |SUN    |Takayama             |Takayama        |                                                    |Booked        | 
 |04/15  |MON    |Takayama/alpin       |Tokyo           |if alpine route might need to sleep somewhere else  |
