@@ -16,11 +16,11 @@
 |04/07  |SUN    |Uji/Nara             |Osaka           |                                                    |Booked        |
 |04/08  |MON    |Kyoto                |Kyoto           |                                                    |Booked        |
 |04/09  |TUE    |Kyoto                |Kyoto           |                                                    |Booked        |
-|04/10  |WED    |Himeji               |Miyajima        |                                                    |
+|04/10  |WED    |Himeji/Kyoto         |Miyajima/Osaka  |                                                    |
 |04/11  |THU    |Hiroshima            |Kanazawa        |                                                    |Booked        |
 |04/12  |FRI    |Kanazawa             |Kanazawa        |                                                    |Booked        |
 |04/13  |SAT    |Shirakawa-go         |Shirakawa-go    |                                                    |Booked        | 
 |04/14  |SUN    |Takayama             |Takayama        |                                                    |Booked        | 
-|04/15  |MON    |Takayama/alpin       |Tokyo           |if alpine route might need to sleep somewhere else  |
-|04/16  |TUE    |Tokyo                |Tokyo           |                                                    |
+|04/15  |MON    |Takayama/alpine/Hiroshima|Tokyo/takayama/toyama/miyajima|                                  |
+|04/16  |TUE    |Tokyo/?                |Tokyo/?        |                                                   |
 |04/17  |WED    |                     |✈️              |Leave for airport in the morning                    |
