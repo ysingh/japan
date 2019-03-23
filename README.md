@@ -27,6 +27,8 @@
 
 
 # Tokyo
+https://www.kabukiweb.net/theatres/kabukiza/performance/april_2.html
+https://restaurants.tokyo.park.hyatt.co.jp/en/pbr.html
 
 # Hirosaki
 We should go there for cherry blossom (day trip from Tokyo)
