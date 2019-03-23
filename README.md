@@ -24,3 +24,80 @@
 |04/15  |MON    |Takayama/alpine/Hiroshima|Tokyo/takayama/toyama/miyajima|                                  |Booked        | 
 |04/16  |TUE    |Tokyo/?                |Tokyo/?        |                                                   |Booked        | 
 |04/17  |WED    |                     |✈️              |Leave for airport in the morning                    |Booked        | 
+
+
+# Tokyo
+
+# Hirosaki
+We should go there for cherry blossom (day trip from Tokyo)
+
+# Kamakura
+Great Buddha of Kamakura
+
+# Nikko
+Toshogu Shrine
+
+# Hakone
+# Fuji Five Lakees
+# Osaka
+
+# Nara
+Naramachi
+
+# Uji
+Horyuji Temple
+Byodoin Temple
+
+
+# Himeji
+Himeji Castle
+
+# Hiroshima
+
+# Kanazawa
+Nagamachi Samurai District
+Higashi Chaya District
+Kenrokuen Garden
+
+
+
+# Shirakawa-go
+
+# Takayama
+Old Town
+
+# Kyoto
+Kiyomizudera Temple
+Kinkakuji (Golden Pavilion)
+Ginkakuji (Silver Pavilion)
+Kokedera (Moss Temple)
+Nanzenji Temple
+Ninnaji Temple
+Fushimi Inari Shrine
+Gion
+Higashiyama District
+Katsura Imperial Villa (buy tickets)
+Kokedera (Moss Temple)
+Ryoanji Temple
+Daitokuji Temple
+Nijo Palace
+
+
+
+
+# Miyajima
+Itsukushima Shrine
+
+
+
+
+
+
+
+# Mount Koya
+Okunoin Temple
+
+
+
+# Nara
+Todaiji Temple
