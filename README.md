@@ -27,6 +27,23 @@
 
 
 # Tokyo
+Jeans
+Kuro flag shop
+
+Momotaro aiyama
+
+Pure blue japan
+
+The flat head
+
+Samurai
+
+Full count in harajuku
+
+Hinoya, americaya in ueno
+harajuku for pbj (and others). Aoyama or kichijoji for momos, jiyugaoka for iron heart
+
+
 https://www.kabukiweb.net/theatres/kabukiza/performance/april_2.html
 https://restaurants.tokyo.park.hyatt.co.jp/en/pbr.html
 
