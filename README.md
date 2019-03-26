@@ -2,25 +2,25 @@
 
 # Itinerary
 
-|  Date | Day   |Day                  |Night In City   |Plan                                                | Accomodations|
-|-------|-------|---------------------|----------------|----------------------------------------------------|--------------|
-|03/29  |FRI    |✈️                   |Tokyo            |Arrive 15:30 - chill                               |Booked        | 
-|03/30  |SAT    |Tokyo                |Tokyo           |                                                    |Booked        | 
-|03/31  |SUN    |Tokyo                |Tokyo           |                                                    |Booked        | 
-|04/01  |MON    |Tokyo                |Tokyo           |                                                    |Booked        | 
-|04/02  |TUE    |Kamakura/Tokyo       |Tokyo           |                                                    |Booked        | 
-|04/03  |WED    |Nikko                |Tokyo           |                                                    |Booked        | 
-|04/04  |THU    |Hakone               |Hakone          |                                                    |Booked        | 
-|04/05  |FRI    |Fuji Five Lakes      |Fuji Five Lakes |                                                    |Booked        |
-|04/06  |SAT    |Osaka                |Osaka           |                                                    |Booked        |
-|04/07  |SUN    |Uji/Nara             |Osaka           |                                                    |Booked        |
-|04/08  |MON    |Kyoto                |Kyoto           |                                                    |Booked        |
-|04/09  |TUE    |Kyoto                |Kyoto           |                                                    |Booked        |
-|04/10  |WED    |Himeji/Kyoto         |Miyajima/Osaka  |                                                    |Booked        | 
-|04/11  |THU    |Hiroshima            |Kanazawa        |                                                    |Booked        |
-|04/12  |FRI    |Kanazawa             |Kanazawa        |                                                    |Booked        |
-|04/13  |SAT    |Shirakawa-go         |Shirakawa-go    |                                                    |Booked        | 
-|04/14  |SUN    |Takayama             |Takayama        |                                                    |Booked        | 
+|  Date | Day   |Day                  |Night In City   |Plan                                                | Accomodations|Temp
+|-------|-------|---------------------|----------------|----------------------------------------------------|--------------|------
+|03/29  |FRI    |✈️                   |Tokyo            |Arrive 15:30 - chill                               |Booked        |55-41
+|03/30  |SAT    |Tokyo                |Tokyo           |                                                    |Booked        |55-46
+|03/31  |SUN    |Tokyo                |Tokyo           |                                                    |Booked        |61-43
+|04/01  |MON    |Tokyo                |Tokyo           |                                                    |Booked        |61-43
+|04/02  |TUE    |Kamakura/Tokyo       |Tokyo           |                                                    |Booked        |61-43
+|04/03  |WED    |Nikko                |Tokyo           |                                                    |Booked        |48-25
+|04/04  |THU    |Hakone               |Hakone          |                                                    |Booked        |57 -36
+|04/05  |FRI    |Fuji Five Lakes      |Fuji Five Lakes |                                                    |Booked        |41 - 37
+|04/06  |SAT    |Osaka                |Osaka           |                                                    |Booked        |68- 50
+|04/07  |SUN    |Uji/Nara             |Osaka           |                                                    |Booked        |69 -55
+|04/08  |MON    |Kyoto                |Kyoto           |                                                    |Booked        |77 - 57
+|04/09  |TUE    |Kyoto                |Kyoto           |                                                    |Booked        |61 - 42
+|04/10  |WED    |Himeji/Kyoto         |Miyajima/Osaka  |                                                    |Booked        |57 - 36
+|04/11  |THU    |Hiroshima            |Kanazawa        |                                                    |Booked        |58-45
+|04/12  |FRI    |Kanazawa             |Kanazawa        |                                                    |Booked        |55-40
+|04/13  |SAT    |Shirakawa-go         |Shirakawa-go    |                                                    |Booked        |55 - 35
+|04/14  |SUN    |Takayama             |Takayama        |                                                    |Booked        |57 - 34 
 |04/15  |MON    |Takayama/alpine/Hiroshima|Tokyo/takayama/toyama/miyajima|                                  |Booked        | 
 |04/16  |TUE    |Tokyo/?                |Tokyo/?        |                                                   |Booked        | 
 |04/17  |WED    |                     |✈️              |Leave for airport in the morning                    |Booked        | 
