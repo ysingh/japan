@@ -27,6 +27,15 @@
 
 
 # Tokyo
+Irezumi: Japanese Tattooing
+
+1966
+
+by Ichiro Morita (Author)
+
+https://www.amazon.com/Irezumi-Japanese-Tattooing-Ichiro-Morita/dp/B0031JRG36/ref=sr_1_6?s=books&ie=UTF8&qid=1544474386&sr=1-6&keywords=ichiro+morita
+
+
 Jeans
 Kuro flag shop
 
